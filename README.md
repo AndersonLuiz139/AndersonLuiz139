@@ -4,7 +4,7 @@
 
 Me chamo Anderson Luiz, mais conhecido como China, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando o curso de Ciências da Computação no Centro universitário de João Pessoa - Unipê. <p align="left">
 <div> 
-  <a href="https://www.instagram.com/anderson.china.15/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/anderson.china.15/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" rel="external"   target="_blank"></a>
   <a href = "mailto:namechina09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-luiz-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
