@@ -1,6 +1,6 @@
 # Olá! Me chamo Anderson Luiz!👩🏻‍💻 
 
-**`Desenvolvedora Front-End`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Anderson Luiz, mais conhecido como China, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando o curso de Ciências da Computação no Centro universitário de João Pessoa - Unipê. <p align="left">
 <div> 
@@ -8,7 +8,6 @@ Me chamo Anderson Luiz, mais conhecido como China, tenho 20 anos e sou natural d
   <a href = "mailto:namechina09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-luiz-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
---_
 
 ### 🤖 Linguagens e Tecnologias
 
