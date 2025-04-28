@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Olá! Meu nome é Anderson Luiz, tenho 20 anos e sou estudante de Ciências da Computação no Centro Universitário de João Pessoa (Unipê).
+Olá! Meu nome é Anderson Luiz, tenho 20 anos e sou estudante de Ciências da Computação no Centro Universitário de João Pessoa - Unipê.
 Sou apaixonado por tecnologia, programação e inovação, e estou sempre em busca de novos conhecimentos para evoluir como desenvolvedor e profissional da área de TI.
 Estou animado para compartilhar meus projetos, aprender com a comunidade e contribuir para o crescimento do mundo open source!<p align="left">
 <div> 
