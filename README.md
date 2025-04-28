@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Anderson Luiz, mais conhecido como China, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando o curso de Ciências da Computação no Centro universitário de João Pessoa - Unipê. <p align="left">
+Olá! Meu nome é Anderson Luiz, tenho 20 anos e sou estudante de Ciências da Computação no Centro Universitário de João Pessoa (Unipê).
+Sou apaixonado por tecnologia, programação e inovação, e estou sempre em busca de novos conhecimentos para evoluir como desenvolvedor e profissional da área de TI.
+Estou animado para compartilhar meus projetos, aprender com a comunidade e contribuir para o crescimento do mundo open source!<p align="left">
 <div> 
   <a href="https://www.instagram.com/anderson.china.15/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" rel="external"   target="_blank"></a>
   <a href = "mailto:namechina09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
