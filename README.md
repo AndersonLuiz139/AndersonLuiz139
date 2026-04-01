@@ -1,19 +1,16 @@
-# Olá! Me chamo Anderson Luiz!👩🏻‍💻 
+<h1 align="left">👩🏻‍💻 Anderson Luiz</h1>
 
-**`Desenvolvedor Front-End`**
+###
+**`Front-End Developer`**
+###
 
-Olá! Meu nome é Anderson Luiz, tenho 21 anos e sou estudante de Ciências da Computação no Centro Universitário de João Pessoa - Unipê.
-Sou apaixonado por tecnologia, programação e inovação, e estou sempre em busca de novos conhecimentos para evoluir como desenvolvedor e profissional da área de TI.
-Estou animado para compartilhar meus projetos, aprender com a comunidade e contribuir para o crescimento do mundo open source!<p align="left">
-<div> 
-  <a href="https://www.instagram.com/anderson.china.15/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" rel="external"   target="_blank"></a>
-  <a href = "mailto:namechina09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anderson-luiz-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<p align="left">Olá! Meu nome é Anderson Luiz, tenho 21 anos e sou estudante de Ciências da Computação no Centro Universitário de João Pessoa - Unipê. Sou apaixonado por tecnologia, programação e inovação, e estou sempre em busca de novos conhecimentos para desenvolver como desenvolvedor e profissional da área de TI. Estou animado para compartilhar meus projetos, aprender com a comunidade e contribuir para o crescimento do mundo open source!
+</p>
 
-### 🤖 Linguagens e Tecnologias
+###
 
-<img 
+<div align="left">
+  <img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -72,3 +69,35 @@ Estou animado para compartilhar meus projetos, aprender com a comunidade e contr
 
 <br/>
 <br/>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lauramachadoss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="170" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">Para saber mais, entre em contato comigo por meio de uma das minhas redes sociais:</h3>
+
+<div align="left">
+  <a href="https://www.instagram.com/anderson.china.15/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/537741169606787103" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:andersonluiz.dev139@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/anderson-luiz-/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+###
