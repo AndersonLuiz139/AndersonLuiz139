@@ -1,116 +1,161 @@
 <h1 align="center">Olá, eu sou Anderson Luiz! 👋</h1>
 
-<p align="center">
-  <strong>Desenvolvedor Front-End | Estudante de Ciência da Computação</strong>
-</p>
+<h4 align="center">
+  🎓 Estudante de Ciência da Computação &nbsp; | &nbsp;
+  💻 Desenvolvedor Front-End
+</h4>
 
 <p align="center">
-  Desenvolvedor apaixonado por criar interfaces modernas, funcionais e responsivas,
-  buscando sempre evoluir minhas habilidades e transformar ideias em aplicações reais.
+  Desenvolvedor apaixonado por tecnologia e desenvolvimento web,
+  buscando transformar ideias em aplicações modernas, funcionais e responsivas.
 </p>
 
----
+<br>
 
-### 🚀 Sobre mim
+<h3>💻 Sobre mim</h3>
 
-🎓 Cursando **Ciência da Computação**
+<p>
+  🎓 Cursando <strong>Ciência da Computação</strong>
+  <br><br>
 
-💻 Foco principal em **Desenvolvimento Front-End**
+  🚀 Foco principal em <strong>Desenvolvimento Front-End</strong>
+  <br><br>
 
-⚛️ Experiência com **React.js, Next.js, TypeScript, JavaScript, HTML e CSS**
+  ⚛️ Aprofundando meus conhecimentos em
+  <strong>React.js, Next.js, TypeScript e JavaScript</strong>
+  <br><br>
 
-🔧 Também explorando o desenvolvimento **Back-End** com Node.js e outras tecnologias
+  🔧 Também estudando conceitos de <strong>Back-End e desenvolvimento Full-Stack</strong>
+  <br><br>
 
-📚 Atualmente aprofundando meus conhecimentos em desenvolvimento web, arquitetura de aplicações e boas práticas de código.
+  📚 Sempre buscando aprender novas tecnologias e melhorar minhas práticas de desenvolvimento.
+</p>
 
-🎯 Meu objetivo é evoluir profissionalmente como desenvolvedor e construir projetos cada vez mais completos e bem estruturados.
+<br>
 
----
-
-### 🛠️ Tecnologias & Ferramentas
+<h3>🛠️ Tecnologias & Ferramentas</h3>
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
 
 </div>
 
----
-
-### 📌 Projetos em destaque
-
-🔹 **Pokedex Web App**
-Aplicação desenvolvida com **Next.js, TypeScript, React e Axios**, consumindo dados da PokeAPI.
-
-🔹 **TaskBoard**
-Aplicação de gerenciamento de tarefas desenvolvida com **HTML, CSS e JavaScript**, utilizando LocalStorage para persistência dos dados.
-
-🔹 **Calculadora**
-Projeto desenvolvido para praticar conceitos fundamentais de desenvolvimento web e JavaScript.
-
-🔹 **Todo List em TypeScript**
-Projeto colaborativo desenvolvido para praticar **TypeScript, organização de código e manipulação de tarefas**.
-
----
-
-### 📊 GitHub Stats
+<br>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonLuiz139&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndersonLuiz139&theme=dracula"
+  height="152"
+  alt="GitHub Profile Details"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLuiz139&layout=compact&langs_count=8&theme=dracula"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndersonLuiz139&theme=dracula"
+  height="152"
+  alt="Most Commit Languages"
+/>
 
 </div>
 
----
+<br>
 
-### 🐍 Contribuições
+<h3>📊 GitHub Stats</h3>
+
+<div align="center">
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=AndersonLuiz139&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+/>
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLuiz139&layout=compact&langs_count=8&theme=dracula"
+/>
+
+</div>
+
+<br>
+
+<h3>🌐 Conecte-se comigo</h3>
+
+<div align="center">
+
+<a href="https://github.com/AndersonLuiz139" target="_blank">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    height="35"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    height="35"
+    alt="LinkedIn"
+  />
+</a>
+
+</div>
+
+<br>
+
+<h3>🐍 Minhas contribuições</h3>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndersonLuiz139/AndersonLuiz139/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndersonLuiz139/AndersonLuiz139/output/github-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/AndersonLuiz139/AndersonLuiz139/output/github-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AndersonLuiz139/AndersonLuiz139/output/github-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AndersonLuiz139/AndersonLuiz139/output/github-snake.svg"
+    />
+
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/AndersonLuiz139/AndersonLuiz139/output/github-snake.svg"
+    />
   </picture>
 </p>
 
----
+<br>
 
-### 📫 Onde me encontrar
-
-<div align="center">
-
-<a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-</a>
-
-<a href="https://github.com/AndersonLuiz139" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
-</a>
-
-</div>
+<img
+  align="right"
+  height="150"
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ2Mzk4dzh0MWx1OTdtM3Bsc2R4a215YzN4N245amZucjM4eTVheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
+  alt="Coding GIF"
+/>
